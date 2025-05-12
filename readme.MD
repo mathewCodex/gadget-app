@@ -17,11 +17,6 @@ Follow these steps to set up and run the mobile application:
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/laribright/gadgets-app-react-native.git
-   cd gadgets-app-react-native
-   ```
-
 2. **Install Dependencies:**
 
    ```bash
@@ -44,10 +39,7 @@ Follow these steps to set up and run the mobile application:
 
    Your app should now be running on your emulator.
 
-### Environment Variables
 
-Make sure to properly configure your environment variables by referring to the `.env.example` file. This file contains example values and instructions on what needs to be filled in.
 
-## Course Video
 
-Watch the full course on YouTube: [Fullstack Gadgets App: React Native Expo & NextJs Admin](https://youtu.be/26opRFPU0a8)
+
